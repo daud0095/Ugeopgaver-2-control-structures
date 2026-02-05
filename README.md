@@ -1,3 +1,3 @@
-# Ugeopgaver-1-control-structures
+# Ugeopgaver-2-control-structures
 
 Daud Ibragimov
